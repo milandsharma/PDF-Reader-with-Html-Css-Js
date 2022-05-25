@@ -1,4 +1,4 @@
-const url = "Docs/nimcet_2018.pdf"
+const url = "Docs/Introduction of UTI.pdf"
 
 let pdfDoc = null,
     pageNum = 1,
